@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://careerpilot-ai-bvc7.onrender.com";
 
 function App() {
   // =========================================================
